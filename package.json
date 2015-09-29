@@ -21,10 +21,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "~4.11.1",
+    "angular2": "^2.0.0-alpha.37",
     "body-parser": "^1.12.4",
-    "falcor-router-demo": "1.0.3",
-    "falcor-express": "0.1.1"
+    "express": "~4.11.1",
+    "falcor-express": "0.1.1",
+    "falcor-router-demo": "1.0.4",
+    "leveldown": "^1.4.1"
   },
   "devDependencies": {
     "eslint": "^0.21.0"

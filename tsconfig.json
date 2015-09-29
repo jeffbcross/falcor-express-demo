@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "outDir": "dist",
+    "experimentalDecorators": true
+  },
+  "files": [
+    "src/app.ts",
+    "src/falcor_pipe.ts"
+  ]
+}
